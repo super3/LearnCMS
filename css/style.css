@@ -1,0 +1,26 @@
+body {
+	margin-top: -5px; 
+}
+
+.btn {
+	width: 160px;
+	height: 50px;
+	font-family: helvetica, arial, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	padding-top: 12px;
+	color: #555555;
+}
+.navBar {
+	padding-left: 73px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+#home { border-bottom: 3px solid #A40733; }
+#tutorials { border-bottom: 3px solid #6CC0D0; }
+#models { border-bottom: 3px solid #A8CB17; }
+#market { border-bottom: 3px solid #F17C0F; width: 120px; display: none; }
+#coins { border-bottom: 3px solid #F17C0F; width: 40px; display: none;}
+#community { border-bottom: 3px solid #C100FF; }
+#login { border-bottom: 3px solid #37073F; }
