@@ -1,9 +1,11 @@
+/* HTML Tags */
 body {
 	margin-top: -5px; 
 }
 
+/* Classes */
 .btn {
-	width: 160px;
+	width: 130px;
 	height: 50px;
 	font-family: helvetica, arial, sans-serif;
 	font-size: 15px;
@@ -12,15 +14,21 @@ body {
 	color: #555555;
 }
 .navBar {
-	padding-left: 73px;
+	padding-left: 59px;
 	padding-bottom: 20px;
 	text-align: center;
 }
 
+/* Position Classes */
+.left { float: left; }
+.right { float: right; }
+.center { text-align: center; }
+
+/* IDs */
 #home { border-bottom: 3px solid #A40733; }
 #tutorials { border-bottom: 3px solid #6CC0D0; }
 #models { border-bottom: 3px solid #A8CB17; }
-#market { border-bottom: 3px solid #F17C0F; width: 120px; display: none; }
-#coins { border-bottom: 3px solid #F17C0F; width: 40px; display: none;}
+#market { border-bottom: 3px solid #F17C0F; width: 120px; }
+#coins { border-bottom: 3px solid #F17C0F; width: 40px; }
 #community { border-bottom: 3px solid #C100FF; }
 #login { border-bottom: 3px solid #37073F; }
