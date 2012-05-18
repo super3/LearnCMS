@@ -3,11 +3,37 @@ LearnCMS
 
 A CMS System for Blenderia and PyGameia.
 
-Palette Ideas
+Roadmap
+========
+
+Version 1.0
 -------
-* http://www.colourlovers.com/palette/2176795/Country_Republic
-* http://www.colourlovers.com/palette/2176783/ME!
-* http://www.colourlovers.com/palette/2176752/Microwaved
-* http://www.colourlovers.com/palette/2176827/Punch_Drunk_Lady
-* http://www.colourlovers.com/palette/2176814/Mod
-* http://www.colourlovers.com/palette/2176846/Yahoo_Candy_Factory
+* Home
+	* Single Hero Image 
+	* Welcome Message
+	* Display Featured or New Tutorials and Models
+	* Description for Market and Community
+	* Social Buttons
+* Tutorials
+	* Paginated Tutorials
+	* Step by Step Tutorials
+	* Inhouse Tutorial Editor
+* Models
+	* Quick Upload for .Blends
+	* Paginated Public Models
+* Market
+	* Tutorial Bounty
+* Community
+	* Simple/Modular Forum System
+* Login
+	* Login Page
+	* Register Page
+	* Forgot Pass Page
+	* Activate Account Page
+	* Basic User Information
+* Admin
+	* Manage Tutorials
+	* Manage Models
+	* Manage Market
+	* Forum Specific Tools
+	* Manage Users
