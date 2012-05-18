@@ -3,17 +3,14 @@ LearnCMS
 
 A CMS System for Blenderia and PyGameia.
 
-Roadmap
-========
-
-Version 1.0
+Roadmap Version 1.0
 -------
 * Home
-	* Single Hero Image 
-	* Welcome Message
-	* Display Featured or New Tutorials and Models
-	* Description for Market and Community
-	* Social Buttons
+	Single Hero Image 
+	Welcome Message
+	Display Featured or New Tutorials and Models
+	Description for Market and Community
+	Social Buttons
 * Tutorials
 	* Paginated Tutorials
 	* Step by Step Tutorials
