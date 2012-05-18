@@ -3,28 +3,28 @@ body {
 	margin-top: -5px; 
 }
 
-/* Classes */
-.btn {
-	width: 130px;
-	height: 50px;
-	font-family: helvetica, arial, sans-serif;
-	font-size: 15px;
-	font-weight: bold;
-	padding-top: 12px;
-	color: #555555;
-}
-.navBar {
-	padding-left: 59px;
-	padding-bottom: 20px;
-	text-align: center;
-}
-
 /* Position Classes */
 .left { float: left; }
 .right { float: right; }
 .center { text-align: center; }
 
-/* IDs */
+/* NavBar */
+.navBar {
+	padding-left: 59px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+.navBar .btn {
+	width: 130px;
+	height: 50px;
+	padding-top: 12px;
+
+	font-family: helvetica, arial, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #555555;
+}
+
 #home { border-bottom: 3px solid #A40733; }
 #tutorials { border-bottom: 3px solid #6CC0D0; }
 #models { border-bottom: 3px solid #A8CB17; }
@@ -32,3 +32,21 @@ body {
 #coins { border-bottom: 3px solid #F17C0F; width: 40px; }
 #community { border-bottom: 3px solid #C100FF; }
 #login { border-bottom: 3px solid #37073F; }
+
+/* Main */
+.main { }
+.main .hero { padding-bottom: 10px; }
+.main .content { text-align: justify; }
+
+/* Sidebar */
+.sidebar {
+	float: left; 
+	width: 210px; 
+	text-align: justify;
+}
+.sidebar .ad {
+	padding-bottom: 10px;
+}
+.sidebar .btn {
+	margin-top:5px; width:90%;
+}
